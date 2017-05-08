@@ -1,0 +1,25 @@
+.al-sidebar {
+    width:254px !important;
+    padding:0px 15px;
+    background-color: #223641 !important;
+}
+
+.al-main{
+    margin:0px 0px 0px 259px !important;
+    padding:0px !important;
+}
+.al-content {
+    margin:0px !important;
+    padding: 80px 0px 12px 35px !important
+}
+
+.row {
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.sidebar-hidden {
+  margin-left: -254px !important; 
+  /*background-color: red !important;*/
+}
+
